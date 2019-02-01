@@ -1,0 +1,29 @@
+{ 
+    "version": "2.0", 
+    "name": "Dattamagazine", 
+    "description": "Ejemplo funcional de App para Firefox OS – by Fernando Luna para Dattamagazine.com", 
+    "launch_path": "/index.php", 
+    "icons": { 
+        "16": "/image/dm-icon.png", 
+        "48": "/image/dm-icon.png", 
+        "128": "/image/dm-icon.png" 
+    }, 
+    "developer": { 
+        "name": "Fernando Luna", 
+        "url": "http://www.dattamagazine.com/" 
+    }, 
+    "installs_allowed_from": ["*"], 
+    "locales": { 
+        "en": { 
+            "description": " Ejemplo funcional de App para Firefox OS – by Fernando Luna para Dattamagazine.com", 
+            "developer": { 
+                "name": "Fernando Omar Luna", 
+                "url": "http://www.vidamobile.com.ar" 
+            } 
+        } 
+    }, 
+    "default_locale": "es", 
+    "permissions": {      
+    }, 
+    "fullscreen": "true" 
+}
